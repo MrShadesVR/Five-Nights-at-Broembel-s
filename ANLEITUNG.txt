@@ -1,8 +1,0 @@
-Five Nights at Brömbel's: Dateien zum Hochladen
-
-1. Entpacken, dann ALLE Dateien (index.html, manifest.json, sw.js, icon-180/192/512.png, hero.jpg) bei einem kostenlosen Hoster hochladen,
-   z. B. GitHub Pages. Nur du brauchst dort ein Konto. Freunde brauchen KEINE Anmeldung.
-2. GitHub: + > New repository (Public) > "uploading an existing file" > alle Dateien > Commit changes.
-   Settings > Pages > Deploy from a branch > main / (root) > Save.
-3. Nach etwa 1 Minute: Link https://DEINNAME.github.io/REPO-NAME/ an Freunde schicken.
-4. iPhone: in Safari oeffnen > Teilen > Zum Home-Bildschirm. Android: Chrome > Menue > App installieren.
